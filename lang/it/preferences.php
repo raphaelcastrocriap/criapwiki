@@ -15,7 +15,7 @@ return [
     'shortcuts_section_navigation' => 'Navigazione',
     'shortcuts_section_actions' => 'Azioni comuni',
     'shortcuts_save' => 'Salva scorciatoie',
-    'shortcuts_overlay_desc' => 'Nota: quando le scorciatoie sono abilitate, premendo "?" è possibile visualizzare le scorciatoie disponibili per le azioni attualmente visibili sullo schermo.',
+    'shortcuts_overlay_desc' => 'Documentação: quando le scorciatoie sono abilitate, premendo "?" è possibile visualizzare le scorciatoie disponibili per le azioni attualmente visibili sullo schermo.',
     'shortcuts_update_success' => 'Le preferenze delle scorciatoie sono state aggiornate!',
     'shortcuts_overview_desc' => 'Gestisci le scorciatoie da tastiera che puoi usare per navigare nell\'interfaccia utente di sistema.',
 

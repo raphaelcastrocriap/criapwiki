@@ -15,14 +15,14 @@ return [
     'shortcuts_section_navigation' => 'Navegación',
     'shortcuts_section_actions' => 'Acciones comunes',
     'shortcuts_save' => 'Guardar accesos directos',
-    'shortcuts_overlay_desc' => 'Nota: Cuando se activan los accesos directos se puede mostrar la ayuda presionando la tecla "?" que resaltará los accesos rápidos disponibles para las acciones actualmente visibles en la pantalla.',
+    'shortcuts_overlay_desc' => 'Documentação: Cuando se activan los accesos directos se puede mostrar la ayuda presionando la tecla "?" que resaltará los accesos rápidos disponibles para las acciones actualmente visibles en la pantalla.',
     'shortcuts_update_success' => '¡Las preferencias de accesos directos han sido actualizadas!',
     'shortcuts_overview_desc' => 'Gestione los atajos de teclado que puede utilizar para navegar por la interfaz de usuario del sistema.',
 
     'notifications' => 'Preferencias de notificaciones',
     'notifications_desc' => 'Controle las notificaciones por correo electrónico que recibe cuando se realiza cierta actividad dentro del sistema.',
-    'notifications_opt_own_page_changes' => 'Notificar sobre los cambios en las páginas en las que soy propietario',
-    'notifications_opt_own_page_comments' => 'Notificar sobre comentarios en las páginas en las que soy propietario',
+    'notifications_opt_own_page_changes' => 'Notificar sobre los cambios en las tópicos en las que soy propietario',
+    'notifications_opt_own_page_comments' => 'Notificar sobre comentarios en las tópicos en las que soy propietario',
     'notifications_opt_comment_replies' => 'Notificar sobre respuestas a mis comentarios',
     'notifications_save' => 'Guardar preferencias',
     'notifications_update_success' => '¡Se han actualizado las preferencias de notificaciones!',
@@ -46,6 +46,6 @@ return [
 
     'delete_account' => 'Eliminar cuenta',
     'delete_my_account' => 'Eliminar mi cuenta',
-    'delete_my_account_desc' => 'Esto eliminará completamente su cuenta de usuario del sistema. No podrá recuperar esta cuenta o revertir esta acción. El contenido que ha creado, como páginas creadas e imágenes subidas, permanecerá.',
+    'delete_my_account_desc' => 'Esto eliminará completamente su cuenta de usuario del sistema. No podrá recuperar esta cuenta o revertir esta acción. El contenido que ha creado, como tópicos creadas e imágenes subidas, permanecerá.',
     'delete_my_account_warning' => '¿Está seguro de que desea eliminar su cuenta?',
 ];

@@ -5,7 +5,7 @@
 return [
 
     // Permissions
-    'permission' => 'Ud. no tiene permisos para visualizar la página solicitada.',
+    'permission' => 'Ud. no tiene permisos para visualizar la tópico solicitada.',
     'permissionJson' => 'Ud. no tiene permisos para ejecutar la acción solicitada.',
 
     // Auth
@@ -62,17 +62,17 @@ return [
 
     // Pages
     'page_draft_autosave_fail' => 'Fallo al guardar borrador. Asegurese de que tiene conexión a Internet antes de guardar este borrador',
-    'page_draft_delete_fail' => 'Error al eliminar el borrador de la página y obtener el último contenido guardado',
-    'page_custom_home_deletion' => 'No se puede eliminar una página cuando está configurada como página de inicio',
+    'page_draft_delete_fail' => 'Error al eliminar el borrador de la tópico y obtener el último contenido guardado',
+    'page_custom_home_deletion' => 'No se puede eliminar una tópico cuando está configurada como tópico de inicio',
 
     // Entities
     'entity_not_found' => 'Entidad no encontrada',
     'bookshelf_not_found' => 'Estante no encontrado',
     'book_not_found' => 'Libro no encontrado',
-    'page_not_found' => 'Página no encontrada',
-    'chapter_not_found' => 'Capítulo no encontrado',
+    'page_not_found' => 'Tópico no encontrada',
+    'chapter_not_found' => 'Artigo no encontrado',
     'selected_book_not_found' => 'El libro seleccionado no fue encontrado',
-    'selected_book_chapter_not_found' => 'El libro o capítulo seleccionado no fue encontrado',
+    'selected_book_chapter_not_found' => 'El libro o artigo seleccionado no fue encontrado',
     'guests_cannot_save_drafts' => 'Los invitados no pueden guardar los borradores',
 
     // Users
@@ -93,9 +93,9 @@ return [
     'empty_comment' => 'No se puede agregar un comentario vacío.',
 
     // Error pages
-    '404_page_not_found' => 'Página no encontrada',
-    'sorry_page_not_found' => 'Lo sentimos, la página que intenta acceder no pudo ser encontrada.',
-    'sorry_page_not_found_permission_warning' => 'Si esperaba que esta página existiera, puede que no tenga permiso para verla.',
+    '404_page_not_found' => 'Tópico no encontrada',
+    'sorry_page_not_found' => 'Lo sentimos, la tópico que intenta acceder no pudo ser encontrada.',
+    'sorry_page_not_found_permission_warning' => 'Si esperaba que esta tópico existiera, puede que no tenga permiso para verla.',
     'image_not_found' => 'No se encuentra la imagen',
     'image_not_found_subtitle' => 'Lo siento, no se pudo encontrar la imagen que busca.',
     'image_not_found_details' => 'Si esperaba que esta imagen exista es probable que se haya eliminado.',

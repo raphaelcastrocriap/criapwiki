@@ -13,7 +13,7 @@ return [
     'page_delete'                 => 'izdzēsa lapu',
     'page_delete_notification'    => 'Lapa veiksmīgi dzēsta',
     'page_restore'                => 'atjaunoja lapu',
-    'page_restore_notification'   => 'Lapa veiksmīgi atjaunota',
+    'page_restore_notification'   => 'Lapa veiksmīgi atjaudocumentação',
     'page_move'                   => 'pārvietoja lapu',
     'page_move_notification'      => 'Lapa veiksmīgi pārvietota',
 
@@ -50,7 +50,7 @@ return [
     'bookshelf_delete_notification'    => 'Plaukts veiksmīgi dzēsts',
 
     // Revisions
-    'revision_restore' => 'versija atjaunota',
+    'revision_restore' => 'versija atjaudocumentação',
     'revision_delete' => 'versija dzēsta',
     'revision_delete_notification' => 'Versija veiksmīgi dzēsta',
 

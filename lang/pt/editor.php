@@ -165,7 +165,7 @@ return [
     'editor_license' => 'Editor da licença de direitos autorais',
     'editor_tiny_license' => 'Este editor foi criado com :tinyLink que é fornecido sob a licença MIT.',
     'editor_tiny_license_link' => 'Os dados relativos aos direitos de autor e à licença do TinyMCE podem ser encontrados aqui.',
-    'save_continue' => 'Salvar página e continuar',
+    'save_continue' => 'Salvar tópico e continuar',
     'callouts_cycle' => '(Continue pressionando para alternar através de tipos)',
     'link_selector' => 'Link para conteúdo',
     'shortcuts' => 'Atalhos',

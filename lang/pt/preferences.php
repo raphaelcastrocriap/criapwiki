@@ -15,14 +15,14 @@ return [
     'shortcuts_section_navigation' => 'Navegação',
     'shortcuts_section_actions' => 'Ações comuns',
     'shortcuts_save' => 'Salvar Atalhos',
-    'shortcuts_overlay_desc' => 'Nota: Quando os atalhos estão ativados, um balão de ajuda ficará disponível pressionando "?" destacando os atalhos disponíveis para ações atualmente visíveis na tela.',
+    'shortcuts_overlay_desc' => 'Documentação: Quando os atalhos estão ativados, um balão de ajuda ficará disponível pressionando "?" destacando os atalhos disponíveis para ações atualmente visíveis na tela.',
     'shortcuts_update_success' => 'As suas preferências de atalhos foram guardadas!',
     'shortcuts_overview_desc' => 'Gerir atalhos do teclado que podem ser usados para navegar pela interface do utilizador.',
 
     'notifications' => 'Preferências das Notificações',
     'notifications_desc' => 'Controlar as notificações via correio eletrónico quando certas atividades são executadas pelo sistema.',
-    'notifications_opt_own_page_changes' => 'Notificar quando páginas que possuo sofrem alterações',
-    'notifications_opt_own_page_comments' => 'Notificar quando comentam páginas que possuo',
+    'notifications_opt_own_page_changes' => 'Notificar quando tópicos que possuo sofrem alterações',
+    'notifications_opt_own_page_comments' => 'Notificar quando comentam tópicos que possuo',
     'notifications_opt_comment_replies' => 'Notificar respostas aos meus comentários',
     'notifications_save' => 'Guardar preferências',
     'notifications_update_success' => 'Preferências de notificação foram atualizadas!',
@@ -46,6 +46,6 @@ return [
 
     'delete_account' => 'Excluir Conta',
     'delete_my_account' => 'Excluir a Minha Conta',
-    'delete_my_account_desc' => 'Isto excluirá completamente sua conta de utilizador do sistema. Você não poderá recuperar esta conta ou reverter esta ação. O conteúdo que você criou, como páginas criadas e imagens carregadas, permanecerá.',
+    'delete_my_account_desc' => 'Isto excluirá completamente sua conta de utilizador do sistema. Você não poderá recuperar esta conta ou reverter esta ação. O conteúdo que você criou, como tópicos criadas e imagens carregadas, permanecerá.',
     'delete_my_account_warning' => 'Tem certeza que deseja excluir sua conta?',
 ];

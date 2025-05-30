@@ -397,7 +397,7 @@ return [
     // Conversions
     'convert_to_shelf' => 'Converti in Libreria',
     'convert_to_shelf_contents_desc' => 'Puoi convertire questo libro in una nuova libreria con gli stessi contenuti. I capitoli contenuti in questo libro saranno convertiti in nuovi libri. Se il libro contiene pagine che non fanno parte di un capitolo, questo libro verrà rinominato e conterrà tali pagine e diventerà parte della nuova libreria.',
-    'convert_to_shelf_permissions_desc' => 'Tutti i permessi impostati su questo libro saranno copiati sulla nuova libreria e su tutti i nuovi libri figli che non hanno i loro permessi applicati. Nota che i permessi delle librerie non si trasmettono automaticamente ai contenuti al loro interno, come avviene per i libri.',
+    'convert_to_shelf_permissions_desc' => 'Tutti i permessi impostati su questo libro saranno copiati sulla nuova libreria e su tutti i nuovi libri figli che non hanno i loro permessi applicati. Documentação che i permessi delle librerie non si trasmettono automaticamente ai contenuti al loro interno, come avviene per i libri.',
     'convert_book' => 'Converti Libro',
     'convert_book_confirm' => 'Sei sicuro di voler convertire questo libro?',
     'convert_undo_warning' => 'Questo non può essere annullato con la stessa facilità.',

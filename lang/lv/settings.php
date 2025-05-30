@@ -113,10 +113,10 @@ return [
     'recycle_bin_destroy_list' => 'Dzēšamās vienības',
     'recycle_bin_restore_list' => 'Atjaunojamās vienības',
     'recycle_bin_restore_confirm' => 'Šī darbība atjaunos dzēsto vienību, tai skaitā visus tai pakārtotos elementus, uz tās sākotnējo atrašanās vietu. Ja sākotnējā atrašanās vieta ir izdzēsta un atrodas miskastē, būs nepieciešams atjaunot arī to.',
-    'recycle_bin_restore_deleted_parent' => 'Šo elementu saturošā vienība arī ir dzēsta. Tas paliks dzēsts līdz šī saturošā vienība arī ir atjaunota.',
+    'recycle_bin_restore_deleted_parent' => 'Šo elementu saturošā vienība arī ir dzēsta. Tas paliks dzēsts līdz šī saturošā vienība arī ir atjaudocumentação.',
     'recycle_bin_restore_parent' => 'Atjaunot augstāku līmeni',
     'recycle_bin_destroy_notification' => 'Dzēstas kopā :count vienības no miskastes.',
-    'recycle_bin_restore_notification' => 'Atjaunotas kopā :count vienības no miskastes.',
+    'recycle_bin_restore_notification' => 'Atjaudocumentações kopā :count vienības no miskastes.',
 
     // Audit Log
     'audit' => 'Auditācijas pieraksti',
@@ -211,7 +211,7 @@ return [
     'users_preferred_language_desc' => 'Šis uzstādījums nomainīs valodu, kas izmantota aplikācijas lietotāja saskarnē. Tas neietekmēs neko no lietotāju radītā satura.',
     'users_social_accounts' => 'Sociālie konti',
     'users_social_accounts_desc' => 'Skatīt piesaistīto sociālo kontu statusu šim lietotājam. Sociālos kontus var izmantot piekļuvei papildus primārajai autentifikācijas sistēmai.',
-    'users_social_accounts_info' => 'Te jūs varat pieslēgt citus kontus ātrākai un ērtākai piekļuvei. Konta atvienošana no šejienes neatceļ šai aplikācijai dotās tiesības šī konta piekļuvei. Atvienojtiet piekļuvi arī no jūsu profila uzstādījumiem pievienotajā sociālajā kontā.',
+    'users_social_accounts_info' => 'Te jūs varat pieslēgt citus kontus ātrākai un ērtākai piekļuvei. Konta atvienošana no šejienes neatceļ šai aplikācijai dotās tiesības šī konta piekļuvei. Atvienojtiet piekļuvi arī no jūsu profila uzstādījumiem pieviedocumentaçãojā sociālajā kontā.',
     'users_social_connect' => 'Pievienot kontu',
     'users_social_disconnect' => 'Atvienot kontu',
     'users_social_status_connected' => 'Savienots',

@@ -69,7 +69,7 @@ return [
     'reg_enable_external_warning' => 'Ak je aktívna externá autentifikácia LDAP alebo SAML, možnosť vyššie sa ignoruje. Používateľské účty pre neexistujúcich členov sa vytvoria automaticky, ak je overenie proti používanému externému systému úspešné.',
     'reg_email_confirmation' => 'Potvrdenie e-mailom',
     'reg_email_confirmation_toggle' => 'Vyžadovať potvrdenie e-mailom',
-    'reg_confirm_email_desc' => 'Ak je použité obmedzenie domény, potom bude vyžadované overenie emailu a hodnota nižšie bude ignorovaná.',
+    'reg_confirm_email_desc' => 'Ak je použité obmedzenie domény, potom bude vyžadované overenie emailu a hoddocumentação nižšie bude ignorovaná.',
     'reg_confirm_restrict_domain' => 'Obmedziť registráciu na doménu',
     'reg_confirm_restrict_domain_desc' => 'Zadajte zoznam domén, pre ktoré chcete povoliť registráciu oddelených čiarkou. Používatelia dostanú email kvôli overeniu adresy predtým ako im bude dovolené používať aplikáciu. <br> Používatelia si budú môcť po úspešnej registrácii zmeniť svoju emailovú adresu.',
     'reg_confirm_restrict_domain_placeholder' => 'Nie sú nastavené žiadne obmedzenia',

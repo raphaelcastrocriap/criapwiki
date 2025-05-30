@@ -163,7 +163,7 @@ return [
     'role_manage_settings' => 'Hallinnoi sivuston asetuksia',
     'role_export_content' => 'Vie sisältöjä',
     'role_editor_change' => 'Vaihda sivun editoria',
-    'role_notifications' => 'Vastaanota ja hallinnoi ilmoituksia',
+    'role_notifications' => 'Vastaadocumentação ja hallinnoi ilmoituksia',
     'role_asset' => 'Sisältöjen oikeudet',
     'roles_system_warning' => 'Huomaa, että minkä tahansa edellä mainituista kolmesta käyttöoikeudesta voi antaa käyttäjälle mahdollisuuden muuttaa omia tai muiden järjestelmän käyttäjien oikeuksia. Anna näitä oikeuksia sisältävät roolit vain luotetuille käyttäjille.',
     'role_asset_desc' => 'Näillä asetuksilla hallitaan oletuksena annettavia käyttöoikeuksia järjestelmässä oleviin sisältöihin. Yksittäisten kirjojen, lukujen ja sivujen käyttöoikeudet kumoavat nämä käyttöoikeudet.',

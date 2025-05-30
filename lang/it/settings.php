@@ -71,7 +71,7 @@ return [
     'reg_email_confirmation_toggle' => 'Richiedi conferma email',
     'reg_confirm_email_desc' => 'Se la restrizione per dominio è usata la conferma della mail sarà richiesta e la scelta ignorata.',
     'reg_confirm_restrict_domain' => 'Restringi la registrazione al dominio',
-    'reg_confirm_restrict_domain_desc' => 'Inserisci una lista separata da virgola di domini di email a cui vorresti restringere la registrazione. Agli utenti verrà inviata una mail per confermare il loro indirizzo prima che possano interagire con l\'applicazione. <br> Nota che gli utenti saranno in grado di cambiare il loro indirizzo dopo aver completato la registrazione.',
+    'reg_confirm_restrict_domain_desc' => 'Inserisci una lista separata da virgola di domini di email a cui vorresti restringere la registrazione. Agli utenti verrà inviata una mail per confermare il loro indirizzo prima che possano interagire con l\'applicazione. <br> Documentação che gli utenti saranno in grado di cambiare il loro indirizzo dopo aver completato la registrazione.',
     'reg_confirm_restrict_domain_placeholder' => 'Nessuna restrizione impostata',
 
     // Maintenance settings
@@ -95,7 +95,7 @@ return [
     'maint_regen_references' => 'Rigenera riferimenti',
     'maint_regen_references_desc' => 'Questa azione ricostruirà l\'indice dei riferimenti incrociati all\'interno del database. Di solito questa operazione è gestita automaticamente, ma può essere utile per indicizzare contenuti vecchi o aggiunti con metodi non ufficiali.',
     'maint_regen_references_success' => 'L\'indice di riferimento è stato rigenerato!',
-    'maint_timeout_command_note' => 'Nota: Questa azione può richiedere del tempo per essere eseguita e può causare problemi di timeout in alcuni ambienti web. In alternativa, questa azione può essere eseguita usando un comando da terminale.',
+    'maint_timeout_command_note' => 'Documentação: Questa azione può richiedere del tempo per essere eseguita e può causare problemi di timeout in alcuni ambienti web. In alternativa, questa azione può essere eseguita usando un comando da terminale.',
 
     // Recycle Bin
     'recycle_bin' => 'Cestino',

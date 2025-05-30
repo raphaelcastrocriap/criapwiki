@@ -15,7 +15,7 @@ return [
     'shortcuts_section_navigation' => 'Navegació',
     'shortcuts_section_actions' => 'Accions habituals',
     'shortcuts_save' => 'Desa les dreceres',
-    'shortcuts_overlay_desc' => 'Nota: Quan les dreces estan activades hi haurà disponible una ajuda que es pot obtenir prement &laquo;?&raquo; que ressaltarà les dreceres disponibles a la pantalla que s’estigui visualitzant.',
+    'shortcuts_overlay_desc' => 'Documentação: Quan les dreces estan activades hi haurà disponible una ajuda que es pot obtenir prement &laquo;?&raquo; que ressaltarà les dreceres disponibles a la pantalla que s’estigui visualitzant.',
     'shortcuts_update_success' => 'S’han actualitzat les preferències de drecera.',
     'shortcuts_overview_desc' => 'Gestioneu les dreceres que s’utilitzen per a navegar per la interfície d’usuari.',
 

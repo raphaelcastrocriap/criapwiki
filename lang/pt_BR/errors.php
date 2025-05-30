@@ -5,7 +5,7 @@
 return [
 
     // Permissions
-    'permission' => 'Você não tem permissão para acessar a página requerida.',
+    'permission' => 'Você não tem permissão para acessar a tópico requerida.',
     'permissionJson' => 'Você não tem permissão para realizar a ação requerida.',
 
     // Auth
@@ -61,18 +61,18 @@ return [
     'attachment_upload_error' => 'Um erro ocorreu ao efetuar o upload do arquivo anexado',
 
     // Pages
-    'page_draft_autosave_fail' => 'Falha ao tentar salvar o rascunho. Certifique-se que a conexão de internet está funcional antes de tentar salvar essa página',
-    'page_draft_delete_fail' => 'Falha ao excluir o rascunho da página e buscar conteúdo salvo na página atual',
-    'page_custom_home_deletion' => 'Não é possível excluir uma página que está definida como página inicial',
+    'page_draft_autosave_fail' => 'Falha ao tentar salvar o rascunho. Certifique-se que a conexão de internet está funcional antes de tentar salvar essa tópico',
+    'page_draft_delete_fail' => 'Falha ao excluir o rascunho da tópico e buscar conteúdo salvo na tópico atual',
+    'page_custom_home_deletion' => 'Não é possível excluir uma tópico que está definida como tópico inicial',
 
     // Entities
     'entity_not_found' => 'Entidade não encontrada',
     'bookshelf_not_found' => 'Prateleira não encontrada',
-    'book_not_found' => 'Nota não encontrado',
-    'page_not_found' => 'Página não encontrada',
-    'chapter_not_found' => 'Capítulo não encontrado',
-    'selected_book_not_found' => 'O nota selecionado não foi encontrado',
-    'selected_book_chapter_not_found' => 'O Nota ou Capítulo selecionado não foi encontrado',
+    'book_not_found' => 'Documentação não encontrado',
+    'page_not_found' => 'Tópico não encontrada',
+    'chapter_not_found' => 'Artigo não encontrado',
+    'selected_book_not_found' => 'O documentação selecionado não foi encontrado',
+    'selected_book_chapter_not_found' => 'O Documentação ou Artigo selecionado não foi encontrado',
     'guests_cannot_save_drafts' => 'Convidados não podem salvar rascunhos',
 
     // Users
@@ -93,13 +93,13 @@ return [
     'empty_comment' => 'Não é possível adicionar um comentário vazio.',
 
     // Error pages
-    '404_page_not_found' => 'Página Não Encontrada',
-    'sorry_page_not_found' => 'Desculpe, a página que você está procurando não pôde ser encontrada.',
-    'sorry_page_not_found_permission_warning' => 'Se você esperava que esta página existisse, talvez você não tenha permissão para visualizá-la.',
+    '404_page_not_found' => 'Tópico Não Encontrada',
+    'sorry_page_not_found' => 'Desculpe, a tópico que você está procurando não pôde ser encontrada.',
+    'sorry_page_not_found_permission_warning' => 'Se você esperava que esta tópico existisse, talvez você não tenha permissão para visualizá-la.',
     'image_not_found' => 'Imagem não encontrada',
     'image_not_found_subtitle' => 'Desculpe, o arquivo de imagem que você estava procurando não pôde ser encontrado.',
     'image_not_found_details' => 'Se você esperava que esta imagem existisse, ela pode ter sido excluída.',
-    'return_home' => 'Retornar à página inicial',
+    'return_home' => 'Retornar à tópico inicial',
     'error_occurred' => 'Ocorreu um Erro',
     'app_down' => ':appName está fora do ar no momento',
     'back_soon' => 'Voltaremos em breve.',

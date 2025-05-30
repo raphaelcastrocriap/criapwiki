@@ -84,7 +84,7 @@ return [
     'none' => 'Ninguno',
 
     // Header
-    'homepage' => 'Página de Inicio',
+    'homepage' => 'Tópico de Inicio',
     'header_menu_expand' => 'Expandir el Menú de Cabecera',
     'profile_menu' => 'Menu del Perfil',
     'view_profile' => 'Ver Perfil',

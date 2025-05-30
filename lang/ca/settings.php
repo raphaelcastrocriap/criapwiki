@@ -95,7 +95,7 @@ return [
     'maint_regen_references' => 'Regenera les referències',
     'maint_regen_references_desc' => 'Aquesta acció reconstruirà l’índex de referències creuades entre elements a la base de dades. Normalment es fa automàticament però aquesta acció és útil per a indexar contingut antic o contingut afegit a través de mètodes no oficials.',
     'maint_regen_references_success' => 'S’ha regenerat l’índex de referències.',
-    'maint_timeout_command_note' => 'Nota: És possible que aquesta acció trigui a executar-se cosa que pot provocar que s’excedeixi el temps d’espera en alguns entorns web. Com a alternativa, podeu executar aquesta acció amb una ordre del terminal.',
+    'maint_timeout_command_note' => 'Documentação: És possible que aquesta acció trigui a executar-se cosa que pot provocar que s’excedeixi el temps d’espera en alguns entorns web. Com a alternativa, podeu executar aquesta acció amb una ordre del terminal.',
 
     // Recycle Bin
     'recycle_bin' => 'Paperera',
@@ -235,12 +235,12 @@ return [
     'user_api_token_name_desc' => 'Anomeneu el testimoni amb un nom entenedor que permeti saber-ne el propòsit.',
     'user_api_token_expiry' => 'Data de caducitat',
     'user_api_token_expiry_desc' => 'Configureu la data de caducitat del testimoni. Un cop passada aquesta data, les sol·licituds fetes amb aquest testimoni no funcionaran. Si deixeu aquest camp en blanc, el testimoni caducarà d’aquí 100 anys.',
-    'user_api_token_create_secret_message' => 'Es crearà i es mostrarà un &laquo;identificador de testimoni&raquo; i un &laquo;secret de testimoni&raquo; immediatament després de crear aquest testimoni. El secret es mostrarà només un sol cop. Assegureu-vos d’anotar-lo i de desar-lo en un lloc segur abans de continuar.',
+    'user_api_token_create_secret_message' => 'Es crearà i es mostrarà un &laquo;identificador de testimoni&raquo; i un &laquo;secret de testimoni&raquo; immediatament després de crear aquest testimoni. El secret es mostrarà només un sol cop. Assegureu-vos d’adocumentaçãor-lo i de desar-lo en un lloc segur abans de continuar.',
     'user_api_token' => 'Testimoni API',
     'user_api_token_id' => 'Identificador de testimoni',
     'user_api_token_id_desc' => 'És un identificador no editable generat pel sistema per a aquest testimoni i que s’haurà de proporcionar en les sol·licituds API.',
     'user_api_token_secret' => 'Secret de testimoni',
-    'user_api_token_secret_desc' => 'És un secret generat pel sistema per a aquest testimoni i que s’haurà de proporcionar en les sol·licituds API. Es mostrarà només un sol cop. Assegureu-vos d’anotar-lo i de desar-lo en un lloc segur abans de continuar.',
+    'user_api_token_secret_desc' => 'És un secret generat pel sistema per a aquest testimoni i que s’haurà de proporcionar en les sol·licituds API. Es mostrarà només un sol cop. Assegureu-vos d’adocumentaçãor-lo i de desar-lo en un lloc segur abans de continuar.',
     'user_api_token_created' => 'Testimoni creat :timeAgo',
     'user_api_token_updated' => 'Testimoni actualitzat :timeAgo',
     'user_api_token_delete' => 'Suprimeix el testimoni',

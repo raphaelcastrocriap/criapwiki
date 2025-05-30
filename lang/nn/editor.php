@@ -35,7 +35,7 @@ return [
     'paragraph' => 'Avsnitt',
     'blockquote' => 'Blokksitat',
     'inline_code' => 'Kodesetning',
-    'callouts' => 'Notabene',
+    'callouts' => 'Documentaçãobene',
     'callout_information' => 'Informasjon',
     'callout_success' => 'Positiv',
     'callout_warning' => 'Advarsel',

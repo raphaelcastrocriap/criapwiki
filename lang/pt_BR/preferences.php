@@ -21,8 +21,8 @@ return [
 
     'notifications' => 'Preferências de notificação',
     'notifications_desc' => 'Controle as notificações por e-mail que você recebe quando uma determinada atividade é executada no sistema.',
-    'notifications_opt_own_page_changes' => 'Notificar quando houver alterações em páginas que eu possuo',
-    'notifications_opt_own_page_comments' => 'Notificar comentários nas páginas que eu possuo',
+    'notifications_opt_own_page_changes' => 'Notificar quando houver alterações em tópicos que eu possuo',
+    'notifications_opt_own_page_comments' => 'Notificar comentários nas tópicos que eu possuo',
     'notifications_opt_comment_replies' => 'Notificar ao responder aos meus comentários',
     'notifications_save' => 'Salvar Preferências',
     'notifications_update_success' => 'Preferências de notificação foram atualizadas!',
@@ -46,6 +46,6 @@ return [
 
     'delete_account' => 'Deletar conta',
     'delete_my_account' => 'Deletar minha conta',
-    'delete_my_account_desc' => 'Isto excluirá completamente sua conta de usuário do sistema. Você não poderá recuperar esta conta ou reverter esta ação. O conteúdo que você criou, como páginas criadas e imagens carregadas, permanecerá.',
+    'delete_my_account_desc' => 'Isto excluirá completamente sua conta de usuário do sistema. Você não poderá recuperar esta conta ou reverter esta ação. O conteúdo que você criou, como tópicos criadas e imagens carregadas, permanecerá.',
     'delete_my_account_warning' => 'Tem certeza de que deseja deletar sua conta?',
 ];

@@ -35,13 +35,13 @@ return [
     'file'                 => ':attribute musí byť uvedený ako platný súbor.',
     'filled'               => 'Políčko :attribute je povinné.',
     'gt'                   => [
-        'numeric' => 'Hodnota :attribute musí byť väčšia ako :value.',
+        'numeric' => 'Hoddocumentação :attribute musí byť väčšia ako :value.',
         'file'    => ':attribute musí mať viac kilobajtov ako :value.',
         'string'  => ':attribute musí mať viac znakov ako :value.',
         'array'   => ':attribute musí mať viac ako :value položiek.',
     ],
     'gte'                  => [
-        'numeric' => 'Hodnota :attribute musí byť väčšia alebo rovná ako :value.',
+        'numeric' => 'Hoddocumentação :attribute musí byť väčšia alebo rovná ako :value.',
         'file'    => ':attribute musí mať rovnaký alebo väčší počet kilobajtov ako :value.',
         'string'  => ':attribute musí byť väčší alebo rovnaký ako :value znakov.',
         'array'   => ':attribute musí mať :value položiek alebo viac.',
@@ -56,13 +56,13 @@ return [
     'ipv6'                 => ':attribute musí byť platná IPv6 adresa.',
     'json'                 => ':attribute musí byť platný JSON reťazec.',
     'lt'                   => [
-        'numeric' => 'Hodnota :attribute musí byť menšia ako :value.',
+        'numeric' => 'Hoddocumentação :attribute musí byť menšia ako :value.',
         'file'    => ':attribute musí mať menej kilobajtov ako :value.',
         'string'  => ':attribute musí mať menej znakov ako :value.',
         'array'   => ':attribute musí mať menej položiek ako :value.',
     ],
     'lte'                  => [
-        'numeric' => 'Hodnota :attribute musí byť menšia alebo rovná ako :value.',
+        'numeric' => 'Hoddocumentação :attribute musí byť menšia alebo rovná ako :value.',
         'file'    => ':attribute musí mať rovnaký alebo menší počet kilobajtov ako :value.',
         'string'  => ':attribute musí mať rovnaký alebo menší počet znakov ako :value.',
         'array'   => ':attribute nesmie mať viac ako :value položiek.',

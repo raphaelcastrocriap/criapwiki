@@ -357,19 +357,19 @@ type Decorator = (uid: string, data: DecoratorData) => {
     attributes?: {};
     classes?: string[];
 };
-type AnnotationListener = (state: boolean, name: string, data?: {
+type AndocumentaçãotionListener = (state: boolean, name: string, data?: {
     uid: string;
     nodes: any[];
 }) => void;
-type AnnotationListenerApi = AnnotationListener;
-interface AnnotatorSettings {
+type AndocumentaçãotionListenerApi = AndocumentaçãotionListener;
+interface AndocumentaçãotorSettings {
     decorate: Decorator;
     persistent?: boolean;
 }
-interface Annotator {
-    register: (name: string, settings: AnnotatorSettings) => void;
-    annotate: (name: string, data: DecoratorData) => void;
-    annotationChanged: (name: string, f: AnnotationListenerApi) => void;
+interface Andocumentaçãotor {
+    register: (name: string, settings: AndocumentaçãotorSettings) => void;
+    andocumentaçãote: (name: string, data: DecoratorData) => void;
+    andocumentaçãotionChanged: (name: string, f: AndocumentaçãotionListenerApi) => void;
     remove: (name: string) => void;
     removeAll: (name: string) => void;
     getAll: (name: string) => Record<string, Element[]>;
@@ -2786,7 +2786,7 @@ declare class Editor implements EditorObservable {
     inline: boolean;
     hasVisual: boolean;
     isNotDirty: boolean;
-    annotator: Annotator;
+    andocumentaçãotor: Andocumentaçãotor;
     bodyElement: HTMLElement | undefined;
     bookmark: any;
     composing: boolean;
@@ -3199,7 +3199,7 @@ interface TinyMCE extends EditorManager {
         Serializer: (settings?: HtmlSerializerSettings, schema?: Schema) => HtmlSerializer;
     };
     AddOnManager: AddOnManagerNamespace;
-    Annotator: (editor: Editor) => Annotator;
+    Andocumentaçãotor: (editor: Editor) => Andocumentaçãotor;
     Editor: EditorConstructor;
     EditorCommands: EditorCommandsConstructor;
     EditorManager: EditorManager;
@@ -3235,4 +3235,4 @@ interface TinyMCE extends EditorManager {
     _addCacheSuffix: Tools['_addCacheSuffix'];
 }
 declare const tinymce: TinyMCE;
-export { AddOnManager, Annotator, AstNode, Bookmark, BookmarkManager, ControlSelection, DOMUtils, Delay, DomParser, DomParserSettings, DomSerializer, DomSerializerSettings, DomTreeWalker, Editor, EditorCommands, EditorEvent, EditorManager, EditorModeApi, EditorObservable, EditorOptions, EditorSelection, Entities, Env, EventDispatcher, EventUtils, EventTypes_d as Events, FakeClipboard, FocusManager, Format_d as Formats, Formatter, GeomRect, HtmlSerializer, HtmlSerializerSettings, I18n, IconManager, Model, ModelManager, NotificationApi, NotificationManager, NotificationSpec, Observable, Plugin, PluginManager, RangeUtils, RawEditorOptions, Rect, Resource, Schema, SchemaSettings, ScriptLoader, Shortcuts, StyleSheetLoader, Styles, TextPatterns_d as TextPatterns, TextSeeker, Theme, ThemeManager, TinyMCE, Tools, URI, Ui_d as Ui, UndoManager, VK, WindowManager, Writer, WriterSettings, tinymce as default };
+export { AddOnManager, Andocumentaçãotor, AstNode, Bookmark, BookmarkManager, ControlSelection, DOMUtils, Delay, DomParser, DomParserSettings, DomSerializer, DomSerializerSettings, DomTreeWalker, Editor, EditorCommands, EditorEvent, EditorManager, EditorModeApi, EditorObservable, EditorOptions, EditorSelection, Entities, Env, EventDispatcher, EventUtils, EventTypes_d as Events, FakeClipboard, FocusManager, Format_d as Formats, Formatter, GeomRect, HtmlSerializer, HtmlSerializerSettings, I18n, IconManager, Model, ModelManager, NotificationApi, NotificationManager, NotificationSpec, Observable, Plugin, PluginManager, RangeUtils, RawEditorOptions, Rect, Resource, Schema, SchemaSettings, ScriptLoader, Shortcuts, StyleSheetLoader, Styles, TextPatterns_d as TextPatterns, TextSeeker, Theme, ThemeManager, TinyMCE, Tools, URI, Ui_d as Ui, UndoManager, VK, WindowManager, Writer, WriterSettings, tinymce as default };
