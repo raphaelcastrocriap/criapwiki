@@ -90,7 +90,7 @@ return [
     'maint_send_test_email_mail_subject' => 'E-mail de Teste',
     'maint_send_test_email_mail_greeting' => 'O envio de e-mails parece funcionar!',
     'maint_send_test_email_mail_text' => 'Parabéns! Já que recebeu esta notificação, as suas opções de e-mail parecem estar configuradas corretamente.',
-    'maint_recycle_bin_desc' => 'Estantes, livros, capítulos e páginas eliminados são mandados para a reciclagem podendo assim ser restaurados ou excluídos permanentemente. Itens mais antigos da podem vir a ser automaticamente removidos da reciclagem após um tempo, dependendo da configuração do sistema.',
+    'maint_recycle_bin_desc' => 'Departamentos, livros, capítulos e páginas eliminados são mandados para a reciclagem podendo assim ser restaurados ou excluídos permanentemente. Itens mais antigos da podem vir a ser automaticamente removidos da reciclagem após um tempo, dependendo da configuração do sistema.',
     'maint_recycle_bin_open' => 'Abrir Reciclagem',
     'maint_regen_references' => 'Regerar Referências',
     'maint_regen_references_desc' => 'Esta ação irá reconstruir o índice de referência no banco de dados. Isto geralmente é tratado automaticamente, mas esta ação pode ser útil para indexar conteúdo antigo ou conteúdo adicionado através de métodos não oficiais.',

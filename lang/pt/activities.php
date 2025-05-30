@@ -40,14 +40,14 @@ return [
     'book_sort_notification'      => 'Livro reordenado com sucesso',
 
     // Bookshelves
-    'bookshelf_create'            => 'estante criada',
-    'bookshelf_create_notification'    => 'Estante criada com sucesso',
-    'bookshelf_create_from_book'    => 'livro convertido para estante',
+    'bookshelf_create'            => 'departamento criada',
+    'bookshelf_create_notification'    => 'Departamento criada com sucesso',
+    'bookshelf_create_from_book'    => 'livro convertido para departamento',
     'bookshelf_create_from_book_notification'    => 'Livro convertido em prateleira com sucesso',
-    'bookshelf_update'                 => 'estante atualizada',
-    'bookshelf_update_notification'    => 'Estante atualizada com sucesso',
+    'bookshelf_update'                 => 'departamento atualizada',
+    'bookshelf_update_notification'    => 'Departamento atualizada com sucesso',
     'bookshelf_delete'                 => 'prateleira excluída',
-    'bookshelf_delete_notification'    => 'Estante eliminada com sucesso',
+    'bookshelf_delete_notification'    => 'Departamento eliminada com sucesso',
 
     // Revisions
     'revision_restore' => 'revisão restaurada',

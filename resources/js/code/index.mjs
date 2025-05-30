@@ -221,3 +221,4 @@ export function markdownEditor(elem, onChange, domEventHandlers, keyBindings) {
 
     return ev;
 }
+

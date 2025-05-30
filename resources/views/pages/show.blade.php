@@ -2,11 +2,12 @@
 
 @push('social-meta')
     <meta property="og:description" content="{{ Str::limit($page->text, 100, '...') }}">
+   
 @endpush
 
 @include('entities.body-tag-classes', ['entity' => $page])
 
-@section('body')
+@section('body')    
 
     <div class="mb-m print-hidden">
         @include('entities.breadcrumbs', ['crumbs' => [
@@ -194,6 +195,7 @@
             @if(userCan('content-export'))
                 @include('entities.export-menu', ['entity' => $page])
             @endif
+    
         </div>
 
     </div>
