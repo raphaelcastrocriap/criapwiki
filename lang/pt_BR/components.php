@@ -13,7 +13,7 @@ return [
     'image_intro_upload' => 'Faça upload de uma imagem arrastando um arquivo de imagem para esta janela, ou usando o botão "Fazer upload de imagem" acima.',
     'image_all' => 'Todas',
     'image_all_title' => 'Visualizar todas as imagens',
-    'image_book_title' => 'Visualizar imagens relacionadas a esse livro',
+    'image_book_title' => 'Visualizar imagens relacionadas a esse nota',
     'image_page_title' => 'visualizar imagens relacionadas a essa página',
     'image_search_hint' => 'Pesquisar imagem por nome',
     'image_uploaded' => 'Adicionada em :uploadedDate',
